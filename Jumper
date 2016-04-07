@@ -29,6 +29,10 @@ public class Jumper extends Bug
    
    }
    
+   public void Jump(){
+   
+   }
+   
    public void act(){
     
       
